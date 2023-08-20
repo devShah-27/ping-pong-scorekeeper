@@ -16,7 +16,7 @@ Technologies Used
 -----------------
 
 -   HTML
--   CSS
+-   Bulma CSS
 -   JavaScript
 
 How to Use
